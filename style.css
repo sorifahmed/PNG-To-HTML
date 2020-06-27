@@ -1,0 +1,222 @@
+*{margin:0px; padding:0px; outline:0px;}
+body{font-family:arial; font-size:15px; line-height:18px; color:#333;background:#ECE8D6;}
+.template{ width:960px; margin:0 auto;}
+.clear{overflow:hidden;}  
+
+.headersection{
+	
+	
+}
+.header{
+	background:#343334;
+	height: 80px;
+}
+.headerleft{
+	width:427px;
+	color:#fff;
+	float:left;
+}
+.headerleft h2 {
+    font-size: 40px;
+    line-height: 50px;
+    padding-left: 32px;
+    padding-top: 11px;
+}
+.headerright{
+	width: 487px;
+    float: right;
+    color: #fff;
+    padding-top: 34px;
+}
+.headerright a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+	transition:all 0.2s ease;
+}
+.headerright a:hover, #active{
+	color:#00A0F6;
+}
+.miansection{
+	background:#fff;
+}
+.slogansection {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 29px;
+    padding-bottom: 27px;
+    border-bottom: 2px dotted #ddd;
+}
+.slogansection h2 {
+    font-size: 44px;
+    line-height: 50px;
+    color: #000;
+}
+.slogansection h3 {
+    font-size: 32px;
+    line-height: 30px;
+    color: #BDBBBD;
+}
+.description {
+    margin: 28px 50px 50px 50px;
+    font-size: 24px;
+    line-height: 27px;
+    color: #666;
+    padding-bottom: 31px;
+    border-bottom: 2px dotted #ddd;
+}
+.description p{
+	
+}
+.contentsection {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.service {
+    background: #00A1F0;
+    width: 216px;
+    margin-left: 48px;
+    float: left;
+    padding: 20px;
+	border-radius: 5px;
+	box-shadow: 6px 7px 0px #EEE;
+}
+.service h2 {
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    border-bottom: 1px dotted #BBB;
+    padding: 15px;
+    margin-bottom: 14px;
+}
+.service p {
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+}
+.readmore {
+    background: #006E99;
+    text-align: center;
+    padding: 11px;
+    margin-top: 20px;
+    border-radius: 31px;
+}
+.readmore a {
+    color: #ddd;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+	font-weight: bold;
+}
+.readmore a:hover{
+	
+}
+.mainbottom {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 28px;
+    border-top: 2px dotted #ddd;
+    padding-top: 31px;
+    border-bottom: 2px dotted #ddd;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.cleansection {
+    width: 398px;
+    float: left;
+    border-right: 2px dotted #ccc;
+    padding-right: 30px;
+    margin-right: 30px;
+}
+.cleansection h2 {
+    font-size: 25px;
+    color: #666;
+    line-height: 25px;  
+	margin-bottom: 27px;
+}
+.testimonial{
+    
+}
+.clientimg{
+	float: left;
+    margin-right: 20px;
+    width: 60px;
+}
+.clientimg img {
+    height: 71px;
+    width: 66px;
+}
+.clientdesc{
+	float:left;
+	width:318px;
+}
+.clientdesc p{
+	color: #666;
+}
+.clientdesc a{
+	text-decoration: none;
+    color: #00A1F4;
+}
+.clientname {
+    font-weight: bold;
+    margin-top: 10px;
+}
+.projectsection{
+	
+}
+.projectsection h2{
+	 font-size: 25px;
+    color: #666;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.projectsection h3{
+	color: #999;
+    margin-bottom: 5px;	
+}
+.projectsection img {
+    width: 397px;
+    height: 201px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+.projectsection p{
+    color: #666;
+   margin-bottom: 14px;
+}
+.projectsection a{
+    text-decoration: none;
+    color: #00A1F0;
+    font-size: 18px;	
+}
+.footersection{
+	background:#FFFF;
+}
+.footersection p {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color: #666;
+}
+.social_media {
+    position: fixed;
+    left: 33px;
+    top: 30%;
+    width: 25px;
+}
+.social_media a i {
+    font-size: 19px;
+    color: #000;
+    background: #fff;
+    margin: 4px 0px;
+    padding: 16px 23px;
+    border-radius: 7px;
+    width: 13px;
+    transition: 0.4s ease;
+}
+ .social_media a i:hover{
+    color: #fff;
+    background: #000;
+    
+}
